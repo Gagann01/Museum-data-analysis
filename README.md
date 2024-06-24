@@ -1,4 +1,4 @@
-# 🏛️ Museum Data Analysis Project
+# 🏛️ Museum Data Analytics Project
 
 This project involves the analysis of museum data using PostgreSQL. The dataset includes information about artists, canvas sizes, images, museums, museum hours, product sizes, subjects, and works. The goal of the project is to perform various queries to derive insights and answer specific questions related to the museum data.
 
